@@ -1,0 +1,7 @@
+SP  Sao Paulo:pedro
+SP  Campinas:andre
+MG  Belo Horizonte:marta
+MG  Diamantina:lucas
+MG  Lavras:rafael
+MG  Bom Sucesso:lisa
+RJ      Rio de Janeiro:alexandro

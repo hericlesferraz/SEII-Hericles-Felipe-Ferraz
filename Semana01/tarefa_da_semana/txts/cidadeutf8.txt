@@ -1,0 +1,7 @@
+SP  Sao Paulo
+SP  Campinas
+MG  Belo Horizonte
+MG  Diamantina
+MG  Lavras
+MG  Bom Sucesso
+RJ  Rio de Janeiro
