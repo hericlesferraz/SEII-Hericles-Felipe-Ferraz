@@ -1,0 +1,13 @@
+QUESTÃO 1:
+
+TCP - 65535 bytes
+UDP - 65535 bytes, sendo maior no IPV6
+
+QUESTÃO 2:
+
+Os grandes pacotes são divididos em varios sub-pacotes com tamanhos menores. Os pacotes são então enviados um a um, e a forma com a qual este envio é efetuado, depende do protocolo de comunicação. 
+
+QUESTÃO 3:
+
+No Protocolo UDP, não é tão importante se um arquivo chegou ou não, podendo existir perdas. Neste sistema, é melho descartar pacotes do que os esperar.
+No Protocolo TCP, é necessário que os arquivos sejam de fato transportados, sem perdas. Este tipo de sistema é muito mais lento do que o protocolo UDP, porém é bem mais confiável.	
