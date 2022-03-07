@@ -18,5 +18,7 @@ O relatorio do projeto, se encontra em:
 
     https://github.com/hericlesferraz/SEII-Hericles-Felipe-Ferraz/tree/master/TrabalhoFinal1/Relatorio
 	
+O video de apresentação, se encontra no link:
 
+    https://drive.google.com/file/d/1GWu7dITlFxR1IQJ0N_1aTkVSQmVsZQCb/view?usp=sharing
 
