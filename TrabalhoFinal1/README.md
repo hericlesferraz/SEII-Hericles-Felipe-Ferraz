@@ -7,7 +7,7 @@ Clone o Repositorio:
 
 Entre na pasta com os scripts:
 
-    cd TrabalhoFinal1/scripts
+    cd SEII-Hericles-Felipe-Ferraz/TrabalhoFinal1/scripts/
 
 Execute o codigo principal:
 
