@@ -11,7 +11,7 @@ Entre na pasta com os scripts:
 
 Execute o codigo principal:
 
-    https://github.com/hericlesferraz/SEII-Hericles-Felipe-Ferraz.git
+    python3 move.py
 
 	
 O relatorio do projeto, se encontra em:
