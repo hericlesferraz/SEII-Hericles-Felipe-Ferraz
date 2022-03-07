@@ -7,7 +7,7 @@ Clone o Repositorio:
 
 Entre na pasta com os scripts:
 
-    cd Trabalho_Final_1/scripts/
+    cd TrabalhoFinal1/scripts
 
 Execute o codigo principal:
 
