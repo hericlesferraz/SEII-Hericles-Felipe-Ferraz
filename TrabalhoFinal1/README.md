@@ -14,5 +14,9 @@ Execute o codigo principal:
     https://github.com/hericlesferraz/SEII-Hericles-Felipe-Ferraz.git
 
 	
+O relatorio do projeto, se encontra em:
+
+    https://github.com/hericlesferraz/SEII-Hericles-Felipe-Ferraz/tree/master/TrabalhoFinal1/Relatorio
+	
 
 
