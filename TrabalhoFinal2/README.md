@@ -22,3 +22,8 @@ http://127.0.0.1:5000/
 ```
 https://drive.google.com/drive/folders/1OyyygVn1opOVg_JEb51s0UR63REB9CV0?usp=sharing
 ```
+
+# Link do Relatorio
+```
+https://github.com/hericlesferraz/SEII-Hericles-Felipe-Ferraz/tree/master/TrabalhoFinal2/Relatorio/
+```
