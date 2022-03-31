@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<html>
+    <head>
+        <title>Sistema Smart Home</title>
+        <h1 class="logo"><img src="../static/smart_home-removebg-preview.png" width="217" height="172"> </h1>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="../static/style.css"
+    </head>
+    <body> 
+        <main class="cards">
+            <section class="card living-room">
+                <div class="icon">
+                    <img src="../static/living-room.png" alt="..." width="50" height="50"/>
+                </div>
+                <h3>Luz da Sala</h3> 
+                    <form action="/light_hall" method="get">
+                        <input type="submit" value="Operar">
+                    </form>
+            </section>
+            <section class="card bed-room">
+                <div class="icon">
+                    <img src="../static/bed-room.png" alt="..." width="50" height="50"/>
+                </div>
+                <h3>Luz do Quarto</h3> 
+                    <form action="/light_room" method="get">
+                        <input type="submit" value="Operar">
+                    </form>
+            </section>
+            <section class="card kitchen">
+                <div class="icon">
+                    <img src="../static/kitchen.png" alt="..." width="50" height="50"/>
+                </div>
+                <h3>Luz da Cozinha</h3>
+                    <form action="/light_kitchen" method="get">  
+                        <input type="submit" value="Operar">
+                    </form>
+            </section>
+            <section class="card bath-room">
+                <div class="icon">
+                    <img src="../static/bath-room.png" alt="..." width="50" height="50"/>
+                </div>     
+                <h3>Luz do Banheiro</h3>
+                    <form action="/light_bathroom" method="get">
+                        <input type="submit" value="Operar">
+                    </form>
+            </section>
+            <section class="card library">
+                <div class="icon">
+                    <img src="../static/library.png" alt="..." width="50" height="50"/>
+                </div>     
+                <h3>Luz da Biblioteca</h3>
+                    <form action="/light_library" method="get">
+                        <input type="submit" value="Operar">
+                    </form>
+            </section>
+        </main>
+
+
+
+    </body>
+</html>
